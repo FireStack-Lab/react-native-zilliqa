@@ -1,4 +1,4 @@
-#react-native-zilliqa
+# react-native-zilliqa
 
 - Developing, don't use it in real projects
 
